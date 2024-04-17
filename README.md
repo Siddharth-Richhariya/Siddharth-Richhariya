@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java Selenium with BDD Framework CI/CD Based**
 
-- 👨‍💻 All of my projects are available at [[https://github.com/blackbugcoder](https://github.com/blackbugcoder)](https://github.com/blackbugcoder?tab=repositories)
+- 👨‍💻 All of my projects are available at https://github.com/blackbugcoder?tab=repositories
 
 - 💬 Ask me about **Java, Selenium, BDD Framework**
 
