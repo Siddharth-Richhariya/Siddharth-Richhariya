@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java Selenium with BDD Framework CI/CD Based**
 
-- 👨‍💻 All of my projects are available at (https://github.com/Siddharth-Richhariya?tab=repositories)
+- 👨‍💻 All of my projects are available at https://github.com/Siddharth-Richhariya?tab=repositories
 
 - 💬 Ask me about **Java, Selenium, BDD Framework**
 
