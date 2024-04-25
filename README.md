@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Java, Selenium, BDD Framework**
 
-- 📫 How to reach me **https://www.linkedin.com/in/siddharth-richhariya/**
+- 📫 How to reach me **sidrichhariya01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
